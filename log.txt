@@ -1,0 +1,5 @@
+ERROR:root:Image ff392f8b0e7580b4f77573a5a3fb2abceed864b4.jpg scraped fail
+ERROR:root:Image ff392f8b0e7580b4f77573a5a3fb2abceed864b4.jpg scraped fail
+ERROR:root:Image ff392f8b0e7580b4f77573a5a3fb2abceed864b4.jpg scraped fail
+ERROR:root:Image ff392f8b0e7580b4f77573a5a3fb2abceed864b4.jpg scraped fail
+ERROR:root:Image ff392f8b0e7580b4f77573a5a3fb2abceed864b4.jpg scraped fail
